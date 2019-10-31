@@ -5,7 +5,7 @@
 ### Data Science 
 
 [Protein Structure Estimation from Data Mining](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="SSC-Fig-2003?raw=true"/>
 
 ---
 [Semi-Empirical Analysis of an Iso-electronic Sequence](/pdf/sample_presentation.pdf)

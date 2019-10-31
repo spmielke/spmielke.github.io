@@ -4,7 +4,7 @@
 
 ### Data Science 
 
-[Project 1 Title](/sample_page)
+[Protein Structure Estimation from Data Mining](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

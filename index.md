@@ -19,7 +19,7 @@
 ### Modeling and Simulation
 
 - [Stochastic Dynamics of *in vivo* DNA](http://example.com/)
-<img src="images/?raw=true"/>
+<img src="images/DNA_2-Chain_PRE-08_color.png?raw=true"/>
 
 ---
 - [Project 2 Title](http://example.com/)

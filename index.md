@@ -19,6 +19,9 @@
 ### Modeling and Simulation
 
 - [Project 1 Title](http://example.com/)
+<img src="images/?raw=true"/>
+
+---
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)

@@ -18,7 +18,7 @@
 
 ### Modeling and Simulation
 
-- [Project 1 Title](http://example.com/)
+- [Stochastic Dynamics of *in vivo* DNA](http://example.com/)
 <img src="images/?raw=true"/>
 
 ---

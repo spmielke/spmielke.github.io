@@ -11,15 +11,15 @@
 [Semi-Empirical Analysis of an Iso-electronic Sequence](/pdf/sample_presentation.pdf)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
----
+<!-- ---
 [Project 3 Title](http://example.com/)
-
+-->
 ---
 
 ### Modeling and Simulation
 
 - [Stochastic Dynamics of *in vivo* DNA](http://example.com/)
-<img src="images/?raw=true"/>
+<!-- <img src="images/?raw=true"/> -->
 
 ---
 - [Project 2 Title](http://example.com/)

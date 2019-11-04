@@ -18,7 +18,7 @@
 
 ### Modeling and Simulation
 
-- [Stochastic Dynamics of *in vivo* DNA](http://example.com/)
+[Stochastic Dynamics of *in vivo* DNA](http://example.com/)
 <!-- <img src="images/?raw=true"/> -->
 
 <!-- ---

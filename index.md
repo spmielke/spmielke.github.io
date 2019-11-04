@@ -8,7 +8,7 @@
 <img src="images/Bioinf-03_Fig1_color-2.png?raw=true"/>
 
 ---
-[Semi-Empirical Analysis of an Iso-electronic Sequence](/pdf/sample_presentation.pdf)
+[Semi-Empirical Analysis of an Iso-Electronic Sequence](/pdf/sample_presentation.pdf)
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 <!-- ---
@@ -21,8 +21,10 @@
 [Stochastic Dynamics of *in vivo* DNA](http://example.com/)
 <!-- <img src="images/?raw=true"/> -->
 
+---
+[Redox and Binding Energies in a Novel Chlorophyll](http://example.com/)
+
 <!-- ---
-- [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)

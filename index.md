@@ -4,11 +4,11 @@
 
 ### Data Science 
 
-[Protein Structure Estimation from Data Mining](/sample_page)
+[Protein Structure Estimation from Data Mining]<!-- (/sample_page) -->
 <img src="images/Bioinf-03_Fig1_color-2.png?raw=true"/>
 
 ---
-[Semi-Empirical Analysis of an Iso-Electronic Sequence](/pdf/sample_presentation.pdf)
+[Semi-Empirical Analysis of an Iso-Electronic Sequence]<!-- (/pdf/sample_presentation.pdf) -->
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 <!-- ---

@@ -19,7 +19,7 @@
 ### Modeling and Simulation
 
 [Stochastic Dynamics of *in vivo* DNA](http://example.com/)
-<img src="images/twin-loop2.png?raw=true"/>
+<img src="images/twin-loop3.png?raw=true"/>
 
 ---
 [Redox and Binding Energies in a Novel Chlorophyll](http://example.com/)
@@ -51,5 +51,5 @@
 -->
 ---
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attribute -->

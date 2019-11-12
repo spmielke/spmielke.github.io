@@ -22,10 +22,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   <!-- <a href="SP-Mielke_Resume-SrResSci_10-4.pdf">CV</a> -->
   CV
-  <br><br>
+  <br>
   Professional Certifications
   <br>
-  &#8226; <a href="https://www.coursera.org/account/accomplishments/verify/6UD6LSLGTEA7">Machine Learning</a>
+  &emsp;&#8226; <a href="https://www.coursera.org/account/accomplishments/verify/6UD6LSLGTEA7">Machine Learning</a>
+  <br>
   &emsp;&#8226; <a href="https://www.coursera.org/account/accomplishments/verify/GAAP72MQNVF3">IBM Data Science</a>
   <br><br>
   <a href="https://www.linkedin.com/in/steven-mielke/">View My LinkedIn Profile</a> 

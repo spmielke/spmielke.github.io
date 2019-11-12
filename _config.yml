@@ -15,7 +15,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="About.md">About</a>
   -->
     
-  <br><br>
+  <!-- <br><br> -->
+  <br {line-height: 150%;}>
   
   <!-- Second description 
   <br><br> -->

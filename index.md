@@ -20,7 +20,7 @@
 -->
 ---
 
-### Modeling and Simulation
+### Modeling and Simulations
 
 [Stochastic Dynamics of *in vivo* DNA]<!-- (http://example.com/) -->
 <img src="images/twin-loop2.png?raw=true"/>

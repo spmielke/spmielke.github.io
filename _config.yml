@@ -3,12 +3,13 @@ logo: "/images/SPM_photo_mod4.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <b>Steve Mielke</b> is a researcher and educator in the Austin, Texas area. He is a former programmer and analyst at NASA, 
   NASA Postdoctoral Program fellow, NIH National Research Service Award recipient, and AAAS Mass Media fellow.
-  
   <!--
   His interdisciplinary research interests include molecular biophysics, computation, complexity, 
   history and philosophy of science, and climate change. Current projects apply machine learning 
   and other data science methodologies to problems in these and other areas. 
   -->
+  
+  <br>
   
   <!--
   <br>
@@ -18,12 +19,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <!-- Second description 
   <br><br> -->
   
-  <!-- <br><br> -->
-  <br>
-  
   <p style="margin-top:0.05cm;"></p>
   
-  <a href="pdf/SP-Mielke_Resume_.pdf">CV</a>
+  <a href="pdf/SP-Mielke_Resume_.pdf">xCV</a>
   <br>
   Professional Certifications
   <br>

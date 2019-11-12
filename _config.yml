@@ -21,9 +21,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <!-- <br><br> -->
   <br>
   
-  <p style="margin-bottom:0.5cm;"><a href="pdf/SP-Mielke_Resume_.pdf">CV</a></p>
+  <p> margin-bottom: 3cm; </p>
   
-  <!-- <a href="pdf/SP-Mielke_Resume_.pdf">CV</a> -->
+  <p style="margin-top:0.1cm;"></p>
+  
+  <a href="pdf/SP-Mielke_Resume_.pdf">CV</a>
   <br>
   Professional Certifications
   <br>

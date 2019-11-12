@@ -22,11 +22,11 @@
 
 ### Modeling and Simulation
 
-[Stochastic Dynamics of *in vivo* DNA](http://example.com/)
+[Stochastic Dynamics of *in vivo* DNA]<!-- (http://example.com/) -->
 <img src="images/twin-loop2.png?raw=true"/>
 
 ---
-[Redox and Binding Energies in a Novel Chlorophyll](http://example.com/)
+[Redox and Binding Energies in a Novel Chlorophyll]<!-- (http://example.com/) -->
 
 <!-- ---
 - [Project 3 Title](http://example.com/)

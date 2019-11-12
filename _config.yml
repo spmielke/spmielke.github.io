@@ -21,9 +21,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <!-- <br><br> -->
   <br>
   
-  <p style="margin-bottom:3cm;">This is the first question?</p>
+  <p style="margin-bottom:0.5cm;"><a href="pdf/SP-Mielke_Resume_.pdf">CV</a></p>
   
-  <a href="pdf/SP-Mielke_Resume_.pdf">CV</a>
+  <!-- <a href="pdf/SP-Mielke_Resume_.pdf">CV</a> -->
   <br>
   Professional Certifications
   <br>

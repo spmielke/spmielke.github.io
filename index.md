@@ -27,6 +27,7 @@
 
 ---
 [Redox and Binding Energies in a Novel Photosystem]<!-- (http://example.com/) -->
+<img src="images/AM-homology.png?raw=true"/>
 
 <!-- ---
 - [Project 3 Title](http://example.com/)

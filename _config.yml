@@ -16,7 +16,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   -->
     
   <!-- <br><br> -->
-  <br {line-height: 150%;}>
+  <br style="line-height:0px;"/>
+  <br style="line-height:0px;"/>
   
   <!-- Second description 
   <br><br> -->

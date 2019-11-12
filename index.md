@@ -12,7 +12,7 @@
 <img src="images/Bioinf-03_Fig1_color-3.png?raw=true"/>
 
 ---
-[Semi-Empirical Analysis of an Iso-Electronic Sequence]<!-- (/pdf/sample_presentation.pdf) -->
+[Semi-Empirical Analysis of an Iso-Electronic Atomic Sequence]<!-- (/pdf/sample_presentation.pdf) -->
 <img src="images/Ar-sequence.png?raw=true"/>
 
 <!-- ---
@@ -26,7 +26,7 @@
 <img src="images/twin-loop2.png?raw=true"/>
 
 ---
-[Redox and Binding Energies in a Novel Chlorophyll]<!-- (http://example.com/) -->
+[Redox and Binding Energies in a Novel Photosystem]<!-- (http://example.com/) -->
 
 <!-- ---
 - [Project 3 Title](http://example.com/)

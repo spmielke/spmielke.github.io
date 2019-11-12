@@ -20,7 +20,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   <!-- <br><br> -->
   <br>
-  \vspace{1cm}
+  
+  <p style="margin-bottom:3cm;">This is the first question?</p>
   
   <a href="pdf/SP-Mielke_Resume_.pdf">CV</a>
   <br>

@@ -9,7 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   and other data science methodologies to problems in these and other areas. 
   -->
   
-  <br>
+  <!-- <br> -->
   
   <!--
   <br>
@@ -21,7 +21,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   <p style="margin-top:0.01cm;"></p>
   
-  <a href="pdf/SP-Mielke_Resume_.pdf">xyCV</a>
+  <a href="pdf/SP-Mielke_Resume_.pdf">xyzCV</a>
   <br>
   Professional Certifications
   <br>

@@ -59,8 +59,8 @@
 (*Featuring Steven Weinberg*)  
 Steven Mielke, David George  
 Science & Technology Features, CNN, 2000  
-<!--<span style="font-size:4em;">...</span>-->
-<font size="1">Image Credit:</font> 
+<span style="font-size:4em;">Image Credit:</span>
+<!--<font size="1">Image Credit:</font>--> 
 
 <!--
 - [Project 1 Title](http://example.com/)

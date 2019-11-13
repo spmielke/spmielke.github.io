@@ -26,6 +26,7 @@
 <img src="images/twin-loop2.png?raw=true"/>
 
 ---
+
 [Redox and Binding Energies in a Novel Photosystem]<!-- (http://example.com/) -->
 <img src="images/AM-homology.png?raw=true"/>
 
@@ -37,6 +38,10 @@
 ---
 
 ### Measurement and Analysis
+
+[Photoacoustic Measurement and Nonlinear Analysis of Photosynthetic Energy-Storage]<!-- (http://example.com/) -->
+<img src="images/Biophys-of-PS_Figs.png?raw=true"/>
+
 <!--
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)

@@ -22,14 +22,14 @@ description: > # your text below (remove <br> elements if you don't need line br
   <!-- <p style="margin-top:0.01cm;"></p> -->
   
   <a href="pdf/SP-Mielke_Resume_.pdf">CV</a>
-  <br>
+  <br><br>
   Professional Certifications
   <br>
   &emsp;&#8226; <a href="https://www.coursera.org/account/accomplishments/verify/6UD6LSLGTEA7">Machine Learning</a>
   <br>
   &emsp;&#8226; <a href="https://www.coursera.org/account/accomplishments/verify/GAAP72MQNVF3">IBM Data Science</a>
   <br><br>
-  <a href="https://www.linkedin.com/in/steven-mielke/">View My LinkedIn Profile</a> 
+  <!-- <a href="https://www.linkedin.com/in/steven-mielke/">View My LinkedIn Profile</a> --> 
 
   
 theme: jekyll-theme-minimal

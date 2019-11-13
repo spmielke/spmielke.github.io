@@ -52,6 +52,9 @@
 ---
 
 ### Teaching and Science Communication
+
+[Large Hadron Collider (CERN) - YouTube Edit](https://www.youtube.com/watch?v=o9c60oj-7og)
+Science & Technology Features, CNN, 2000
 <!--
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)

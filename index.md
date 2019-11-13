@@ -39,7 +39,7 @@
 
 ### Measurement and Analysis
 
-[Photoacoustic Measurement and Nonlinear Analysis of Photosynthetic Energy-Storage]<!-- (http://example.com/) -->
+[Photoacoustic Spectroscopy and Nonlinear Analysis of Photosynthetic Energy-Storage]<!-- (http://example.com/) -->
 <img src="images/Biophys-of-PS_Figs.png?raw=true"/>
 
 <!--

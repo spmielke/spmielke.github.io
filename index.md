@@ -57,7 +57,7 @@
 
 [Large Hadron Collider (CERN) - YouTube Edit](https://www.youtube.com/watch?v=o9c60oj-7og)  
 (Featuring Steven Weinberg)  
-Steven Mielke, David George
+Steven Mielke, David George  
 Science & Technology Features, CNN, 2000
 <!--
 - [Project 1 Title](http://example.com/)

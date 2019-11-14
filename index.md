@@ -12,11 +12,9 @@
 <img src="images/Bioinf-03_Fig1_color-3.png?raw=true"/>
 
 ---
+
 [Semi-Empirical Analysis of an Iso-Electronic Atomic Sequence]<!-- (/pdf/sample_presentation.pdf) -->
-<img src="![](images/Ar-sequence.png){:height="50%" width="50%"}?raw=true"/>
-
-{:height="50%" width="50%"
-
+<img width="50%" height="50%" src="images/Ar-sequence.png?raw=true"/>
 
 <!-- ---
 [Project 3 Title](http://example.com/)

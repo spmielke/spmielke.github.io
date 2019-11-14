@@ -13,7 +13,10 @@
 
 ---
 [Semi-Empirical Analysis of an Iso-Electronic Atomic Sequence]<!-- (/pdf/sample_presentation.pdf) -->
-<img src="images/Ar-sequence.png?raw=true"/>
+<img src="![](images/Ar-sequence.png){:height="50%" width="50%"}?raw=true"/>
+
+{:height="50%" width="50%"
+
 
 <!-- ---
 [Project 3 Title](http://example.com/)

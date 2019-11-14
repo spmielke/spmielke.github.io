@@ -14,7 +14,7 @@
 ---
 
 [Semi-Empirical Analysis of an Iso-Electronic Atomic Sequence]<!-- (/pdf/sample_presentation.pdf) -->
-<img width="50%" height="50%" src="images/Ar-sequence.png?raw=true"/>
+<img width="80%" height="80%" src="images/Ar-sequence.png?raw=true"/>
 
 <!-- ---
 [Project 3 Title](http://example.com/)
@@ -57,7 +57,7 @@
 <img src="images/LHC.png?raw=true"/>
 
 [Large Hadron Collider (CERN) - YouTube Edit](https://www.youtube.com/watch?v=o9c60oj-7og)  
-(*Featuring Steven Weinberg*)  
+(*Featuring Nobel Laureate, Steven Weinberg*)  
 Steven Mielke, David George  
 Science & Technology Features, CNN, 2000  
 <sub>Image Credit: www.universetoday.com</sub>

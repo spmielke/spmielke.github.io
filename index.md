@@ -14,7 +14,7 @@
 ---
 
 [Semi-Empirical Analysis of an Iso-Electronic Atomic Sequence]<!-- (/pdf/sample_presentation.pdf) -->
-<img width="80%" height="80%" src="images/Ar-sequence.png?raw=true"/>
+<img width="85%" height="85%" src="images/Ar-sequence.png?raw=true"/>
 
 <!-- ---
 [Project 3 Title](http://example.com/)

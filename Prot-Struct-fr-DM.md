@@ -2,7 +2,7 @@
 
 ### Project Description
 
-#### Abstract
+#### Summary
 
 ...
 \[img: "protein structural class"??:\] ... <img src="...?raw=true"/> ...

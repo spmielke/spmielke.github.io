@@ -1,9 +1,8 @@
 ## Selected Publications
-
+<!--
 SP Mielke. Efficiency spectra of in vivo photosynthesis: Measurement and analysis. In preparation.
-
 M Dong, SP Mielke, M Amin, S Vassiliev, and MR Gunner. Comparison of chlorophyll a and d electrochemistry and affinity in A. marina and T. elongatus PSII reaction centers. In preparation.
-
+-->
 D Mauzerall and SP Mielke (2014) Energy changes in photosynthetic electron transport: Probing photosynthesis by pulsed photoacoustics. In The Biophysics of Photosynthesis, JH Golbeck, A van der Est, Eds. Springer, Amherst.
 
 SP Mielke, NY Kiang, RE Blankenship, and D Mauzerall (2013) Photosystem trap energies and spectrally-dependent energy-storage efficiencies in the Chl d-utilizing cyanobacterium, Acaryochloris marina. Biochim. Biophys. Acta 1827, 255–265.

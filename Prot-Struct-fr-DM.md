@@ -5,7 +5,8 @@
 #### Summary
 
 ...
-\[img: "protein structural class"??:\] ... <img src="...?raw=true"/> ...
+
+<img src="/images/Prot-struct-classes.png?raw=true"/>
 
 #### Objectives and Significance
 

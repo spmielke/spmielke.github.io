@@ -45,7 +45,7 @@ SP Mielke, NY Kiang, RE Blankenship, and D Mauzerall (2013) Photosystem trap ene
 
 SP Mielke, NY Kiang, RE Blankenship, MR Gunner, and D Mauzerall (2011) Efficiency of photosynthesis in a Chl d-utilizing cyanobacterium is comparable to or higher than that in Chl a-utilizing oxygenic species. Biochim. Biophys. Acta 1807, 1231–1236.
 
-### Atomic Structure Theory
+### Atomic Structure
 
 ... (Thesis)
 

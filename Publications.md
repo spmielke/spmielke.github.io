@@ -47,6 +47,6 @@ SP Mielke, CJ Benham, N Gr&#248;nbech-Jensen, WH Fink, and VV Krishnan (2004) A 
 
 ### Atomic Structure
 
-SP Mielke (2000) ... . U Toledo, thesis.
+SP Mielke (2000) A nonlinear least-squares fitting program for atomic parameters along the argon isoelectronic sequence. U Toledo, thesis.
 
 

@@ -21,7 +21,7 @@ SP Mielke, CJ Benham, and N Gr&#248;nbech-Jensen (2009) Persistence lengths of D
 
 H Tanaka, SP Mielke, CJ Benham, T Kawai (2008) Visualization of the detailed structure of plasmid DNA. Journal of Physical Chemistry B 112, 16788–16792.
 
-SP Mielke, N Gr&#248;nbech-Jensen, and CJ Benham (2008) Brownian dynamics of double-stranded DNA in periodic systems with discrete salt. Physical Review E 77, 031924-1–11.
+[SP Mielke, N Gr&#248;nbech-Jensen, and CJ Benham (2008) Brownian dynamics of double-stranded DNA in periodic systems with discrete salt. Physical Review E 77, 031924-1–11.](/Publications/DNA/Mielke-PhysRevE-2008.pdf)
 
 SP Mielke and CJ Benham (2007) Brownian dynamics of superhelical DNA. Journal of Biomolecular Structure and Dynamics 24, 736–737. (Abstract)
 

@@ -17,7 +17,7 @@ SP Mielke and VV Krishnan (2003) Chemical shift-based identification of protein 
 
 ### Structure and Dynamics of *in vivo* DNA
 
-SP Mielke, CJ Benham, and N Gr&#8709;nbech-Jensen (2009) Persistence lengths of DNA obtained from Brownian dynamics simulations. Journal of Physical Chemistry A 113, 4213–4216.
+SP Mielke, CJ Benham, and N Gr&#248;nbech-Jensen (2009) Persistence lengths of DNA obtained from Brownian dynamics simulations. Journal of Physical Chemistry A 113, 4213–4216.
 
 H Tanaka, SP Mielke, CJ Benham, T Kawai (2008) Visualization of the detailed structure of plasmid DNA. Journal of Physical Chemistry B 112, 16788–16792.
 

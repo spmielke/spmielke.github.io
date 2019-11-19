@@ -31,7 +31,7 @@ SP Mielke, N Gr&#248;nbech-Jensen, VV Krishnan, WH Fink, and CJ Benham (2005) Br
 
 CJ Benham and SP Mielke (2005) DNA mechanics. Annual Review of Biomedical Engineering 7, 21–53.
 
-SP Mielke, WH Fink, VV Krishnan, N Gr&#248;nbech-Jensen, and CJ Benham (2004) Transcription-driven twin supercoiling of a DNA loop: a Brownian dynamics study. Journal of Chemical Physics 121, 8104–8112.
+[SP Mielke, WH Fink, VV Krishnan, N Gr&#248;nbech-Jensen, and CJ Benham (2004) Transcription-driven twin supercoiling of a DNA loop: a Brownian dynamics study. Journal of Chemical Physics 121, 8104–8112.](/Publications/DNA/Mielke-JCP-2004.pdf)
 
 SP Mielke, CJ Benham, N Gr&#248;nbech-Jensen, WH Fink, and VV Krishnan (2004) A dynamical model of localized denaturation in superhelical, closed-circular DNA. Biophysical Journal 86, 415A. (Abstract)
 

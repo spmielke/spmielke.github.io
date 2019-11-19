@@ -6,7 +6,7 @@
 
 ...
 
-<img width="85%" height="85%" src="/images/Prot-struct-classes.png?raw=true"/>
+<img width="75%" height="75%" src="/images/Prot-struct-classes.png?raw=true"/>
 
 #### Objectives and Significance
 

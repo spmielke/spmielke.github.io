@@ -25,7 +25,7 @@ H Tanaka, SP Mielke, CJ Benham, T Kawai (2008) Visualization of the detailed str
 
 SP Mielke and CJ Benham (2007) Brownian dynamics of superhelical DNA. Journal of Biomolecular Structure and Dynamics 24, 736–737. (Abstract)
 
-SP Mielke and VV Krishnan (2006) Superhelical denaturation of DNA: a theoretical perspective. Research Trends: Trends in Chemical Physics 13, 29–40. 
+SP Mielke and VV Krishnan (2006) Superhelical denaturation of DNA: A theoretical perspective. Research Trends: Trends in Chemical Physics 13, 29–40. 
 
 [SP Mielke, N Gr&#248;nbech-Jensen, VV Krishnan, WH Fink, and CJ Benham (2005) Brownian dynamics simulations of sequence-dependent duplex denaturation in dynamically superhelical DNA. Journal of Chemical Physics 123, 124911–124921.](/Publications/DNA/Mielke-JCP-2005.pdf)
 

@@ -43,7 +43,7 @@ SP Mielke (2006) Computational approaches to the structure and dynamics of biomo
 
 SP Mielke, NY Kiang, RE Blankenship, and D Mauzerall (2013) Photosystem trap energies and spectrally-dependent energy-storage efficiencies in the Chl d-utilizing cyanobacterium, Acaryochloris marina. Biochim. Biophys. Acta 1827, 255–265.
 
-SP Mielke, NY Kiang, RE Blankenship, MR Gunner, and D Mauzerall (2011) Efficiency of photosynthesis in a Chl d-utilizing cyanobacterium is comparable to or higher than that in Chl a-utilizing oxygenic species. Biochim. Biophys. Acta 1807, 1231–1236.
+[SP Mielke, NY Kiang, RE Blankenship, MR Gunner, and D Mauzerall (2011) Efficiency of photosynthesis in a Chl d-utilizing cyanobacterium is comparable to or higher than that in Chl a-utilizing oxygenic species. Biochim. Biophys. Acta 1807, 1231–1236.](/Publications/PS/Mielke_BBABIO_2011.pdf)
 
 ### Atomic Structure
 

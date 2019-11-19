@@ -41,7 +41,7 @@ SP Mielke (2006) Computational approaches to the structure and dynamics of biomo
 
 [D Mauzerall and SP Mielke (2014) Energy changes in photosynthetic electron transport: Probing photosynthesis by pulsed photoacoustics. In *The Biophysics of Photosynthesis*, JH Golbeck, A van der Est, Eds. Springer, Amherst.](/Publications/PS/Biophys_of_PS_Ch_6.pdf)
 
-SP Mielke, NY Kiang, RE Blankenship, and D Mauzerall (2013) Photosystem trap energies and spectrally-dependent energy-storage efficiencies in the Chl d-utilizing cyanobacterium, Acaryochloris marina. Biochim. Biophys. Acta 1827, 255–265.
+[SP Mielke, NY Kiang, RE Blankenship, and D Mauzerall (2013) Photosystem trap energies and spectrally-dependent energy-storage efficiencies in the Chl d-utilizing cyanobacterium, Acaryochloris marina. Biochim. Biophys. Acta 1827, 255–265.](/Publications/PS/Mielke_BBABIO_2013.pdf)
 
 [SP Mielke, NY Kiang, RE Blankenship, MR Gunner, and D Mauzerall (2011) Efficiency of photosynthesis in a Chl d-utilizing cyanobacterium is comparable to or higher than that in Chl a-utilizing oxygenic species. Biochim. Biophys. Acta 1807, 1231–1236.](/Publications/PS/Mielke_BBABIO_2011.pdf)
 

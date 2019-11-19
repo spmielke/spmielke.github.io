@@ -21,21 +21,21 @@ SP Mielke, CJ Benham, and N Gr&#248;nbech-Jensen (2009) Persistence lengths of D
 
 H Tanaka, SP Mielke, CJ Benham, T Kawai (2008) Visualization of the detailed structure of plasmid DNA. Journal of Physical Chemistry B 112, 16788–16792.
 
-SP Mielke, N GrØnbech-Jensen, and CJ Benham (2008) Brownian dynamics of double-stranded DNA in periodic systems with discrete salt. Physical Review E 77, 031924-1–11.
+SP Mielke, N Gr&#248;nbech-Jensen, and CJ Benham (2008) Brownian dynamics of double-stranded DNA in periodic systems with discrete salt. Physical Review E 77, 031924-1–11.
 
 SP Mielke and CJ Benham (2007) Brownian dynamics of superhelical DNA. Journal of Biomolecular Structure and Dynamics 24, 736–737. (Abstract)
 
 SP Mielke and VV Krishnan (2006) Superhelical denaturation of DNA: a theoretical perspective. Research Trends: Trends in Chemical Physics 13, 29–40. 
 
-SP Mielke, N GrØnbech-Jensen, VV Krishnan, WH Fink, and CJ Benham (2005) Brownian dynamics simulations of sequence-dependent duplex denaturation in dynamically superhelical DNA. Journal of Chemical Physics 123, 124911–124921.
+SP Mielke, N Gr&#248;nbech-Jensen, VV Krishnan, WH Fink, and CJ Benham (2005) Brownian dynamics simulations of sequence-dependent duplex denaturation in dynamically superhelical DNA. Journal of Chemical Physics 123, 124911–124921.
 
 CJ Benham and SP Mielke (2005) DNA mechanics. Annual Review of Biomedical Engineering 7, 21–53.
 
-SP Mielke, WH Fink, VV Krishnan, N GrØnbech-Jensen, and CJ Benham (2004) Transcription-driven twin supercoiling of a DNA loop: a Brownian dynamics study. Journal of Chemical Physics 121, 8104–8112.
+SP Mielke, WH Fink, VV Krishnan, N Gr&#248;nbech-Jensen, and CJ Benham (2004) Transcription-driven twin supercoiling of a DNA loop: a Brownian dynamics study. Journal of Chemical Physics 121, 8104–8112.
 
-SP Mielke, CJ Benham, N GrØnbech-Jensen, WH Fink, and VV Krishnan (2004) A dynamical model of localized denaturation in superhelical, closed-circular DNA. Biophysical Journal 86, 415A. (Abstract)
+SP Mielke, CJ Benham, N Gr&#248;nbech-Jensen, WH Fink, and VV Krishnan (2004) A dynamical model of localized denaturation in superhelical, closed-circular DNA. Biophysical Journal 86, 415A. (Abstract)
 
-... (Dissertation)
+SP Mielke (2006) Computational approaches to the structure and dynamics of biomolecules. UC Davis, dissertation.
 
 ### Photosynthetic Energy-Storage
 
@@ -47,6 +47,6 @@ SP Mielke, NY Kiang, RE Blankenship, MR Gunner, and D Mauzerall (2011) Efficienc
 
 ### Atomic Structure
 
-... (Thesis)
+SP Mielke (2000) ... . U Toledo, thesis.
 
 

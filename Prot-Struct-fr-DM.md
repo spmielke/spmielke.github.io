@@ -6,9 +6,9 @@
 
 ... This continuing effort seeks ... \[see Notes ... .docx\] ... . ...  
 
-... An initial project (Sibley, Monique, Krish) demonstrated ... . ... <Mielke / Krishnan:> ... employing rigorous statistical methods, provided formal basis ... . ... Subsequent work ... ML ... .
+... An initial project (Sibley, Monique, Krish) demonstrated ... . ... <Mielke / Krishnan:> ... employing rigorous statistical methods, provided formal basis ... . ... Subsequent work ... ML ... . 
 
-...
+... Current efforts ... expand deep learning ...
 
 <img width="75%" height="75%" src="/images/Prot-struct-classes.png?raw=true"/>
 

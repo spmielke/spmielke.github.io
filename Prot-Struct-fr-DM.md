@@ -4,7 +4,7 @@
 
 #### Summary
 
-... This continuing effort seeks ... \[see Notes ... .docx\] ... . ...  
+... Motivated by the need for …, this continuing effort seeks ... to provide semi-empirical (NMR-based) methods for low-resolution structural estimation of uncharacterized proteins ... . ...  
 
 ... An initial project (Sibley, Monique, Krish) demonstrated ... . ... <Mielke / Krishnan:> ... employing statistical methods, provided formal basis ... . ... Subsequent work ... ML ... . 
 

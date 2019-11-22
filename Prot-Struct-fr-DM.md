@@ -4,7 +4,7 @@
 
 #### Summary
 
-... In the era of ... genomics / data ..., ... Motivated by the need for …, ... This continuing effort seeks ... to provide semi-empirical (NMR-based) methods for low-resolution structural estimation of uncharacterized proteins ... . ...  
+Motivated by the need for fast, reliable methods of assessing protein structure in the era of big genomics, this continuing effort seeks to provide data-derived tools for high-throughput structural class identification from low-resolution nuclear magnetic resonance (NMR) information. ...
 
 ... An initial project (Sibley, Monique, Krish) demonstrated ... . ... <Mielke / Krishnan:> ... employing statistical methods, provided formal basis ... . ... Subsequent work ... ML ... . 
 

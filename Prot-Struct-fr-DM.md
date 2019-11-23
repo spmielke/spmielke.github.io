@@ -4,7 +4,7 @@
 
 #### Summary
 
-Motivated by the need for fast, reliable methods of assessing protein structure in the era of big genomics, this continuing effort seeks to provide data-derived tools for high-throughput structural class identification from low-resolution nuclear magnetic resonance (NMR) information. ...
+Motivated by the need for fast, reliable methods of assessing protein structure in the era of big genomics, this continuing effort seeks to provide data-derived tools for high-throughput structural characterization of proteins from low-resolution nuclear magnetic resonance (NMR) measurements. ...
 
 ... An initial project (Sibley, Monique, Krish) demonstrated ... . ... <Mielke / Krishnan:> ... employing statistical methods, provided formal basis ... . ... Subsequent work ... ML ... . 
 

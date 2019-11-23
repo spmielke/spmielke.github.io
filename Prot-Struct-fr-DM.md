@@ -4,7 +4,7 @@
 
 #### Summary
 
-Motivated by the need for fast, reliable methods of assessing protein structure in the era of big genomics, this continuing effort seeks to provide data-derived tools for high-throughput structural characterization of proteins directly from traditional (e.g., HSQC) nuclear magnetic resonance (NMR) spectra, prior to resonance assignment. By correlating the NMR chemical shifts and secondary structure content of proteins of known conformation, these tools allow accurate, real-time estimation of secondary structure in uncharacterized proteins.
+Motivated by the need for fast, reliable methods of assessing protein structure in the era of big genomics, this continuing effort seeks to provide data-derived tools for high-throughput structural characterization of proteins directly from traditional (e.g., HSQC) nuclear magnetic resonance (NMR) spectra, prior to resonance assignment. By correlating the NMR chemical shifts and structure content of proteins of known conformation, these tools allow accurate, real-time estimation of secondary structure in uncharacterized proteins.
 
 ... Following an initial project (Sibley, Monique, Krish) that demonstrated ..., ... <Mielke / Krishnan:> ... employing statistical methods, provided formal basis ... . ... Subsequent work ... ML ... . 
 

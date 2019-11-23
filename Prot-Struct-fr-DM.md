@@ -4,7 +4,7 @@
 
 #### Summary
 
-Motivated by the need for fast, reliable methods of assessing protein structure in the era of big genomics, this continuing effort seeks to provide data-derived tools for high-throughput structural characterization of proteins from low-resolution nuclear magnetic resonance (NMR) information. By correlating the NMR chemical shifts and structural classes of proteins with known conformation, these tools allow accurate estimation of secondary structure content directly from xx spectra, prior to resonance assignment. ... This ...
+Motivated by the need for fast, reliable methods of assessing protein structure in the era of big genomics, this continuing effort seeks to provide data-derived tools for high-throughput structural characterization of proteins from low-resolution nuclear magnetic resonance (NMR) information. By correlating the NMR chemical shifts and structural classes of proteins with known conformation, these tools allow accurate estimation of secondary structure content directly from NMR xx spectra, prior to the time-consuming task of resonance assignment. ... This ...
 
 ... An initial project (Sibley, Monique, Krish) demonstrated ... . ... <Mielke / Krishnan:> ... employing statistical methods, provided formal basis ... . ... Subsequent work ... ML ... . 
 

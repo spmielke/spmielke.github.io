@@ -6,7 +6,7 @@
 
 Motivated by the need for fast, reliable methods of assessing protein structure in the era of big genomics, this continuing effort seeks to provide data-derived tools for high-throughput structural characterization of proteins directly from traditional (e.g., HSQC) nuclear magnetic resonance (NMR) spectra, prior to resonance assignment. By correlating the NMR chemical shifts and structure content of proteins of known conformation, these tools allow accurate, real-time estimation of secondary structure in previously uncharacterized proteins.
 
-Contributions to this effort have demonstrated an empirical correlation ... (Sibley, Monique, Krish), ... <Mielke / Krishnan (all):> ... employed ... rigorous ... statistical methods ..., ... establishing / providing formal basis ... for correlating ACS with structural class ... + ... influence of RCs, etc. ... . => ... Subsequent work ... ML ... . 
+Contributions to this effort have included ... demonstrating an empirical correlation ... (Sibley, Monique, Krish), ... <Mielke / Krishnan (all):> ... employed ... rigorous ... statistical methods ..., ... establishing / providing formal basis ... for correlating ACS with structural class ... + ... influence of RCs, etc. ... . => ... Subsequent work ... ML ... . 
 
 ... Current efforts ... e.g., logistic regression, expand deep learning approach, ...
 

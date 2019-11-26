@@ -1,7 +1,7 @@
 ## About
 <b>Steve Mielke</b> is a researcher and educator in the Austin, Texas area. He is a former programmer and analyst at NASA, NASA Postdoctoral Program fellow, NIH National Research Service Award recipient, and AAAS Mass Media fellow. 
 
-His research interests include molecular biophysics, computation, AI, complexity, history and philosophy of science, and climate change. Ongoing projects apply machine learning and other data science methodologies to a range of interdisciplinary problems. Current focus areas include biomolecular structure and neural network audio learning.
+His research interests include molecular biophysics, computation, AI, complexity, history and philosophy of science, and climate change. Ongoing projects apply machine learning and other data science methodologies to a range of interdisciplinary problems. Current focus areas include biomolecular structure prediction and neural network audio learning.
 
 <a href="https://www.linkedin.com/in/steven-mielke/">View My LinkedIn Profile</a>
 

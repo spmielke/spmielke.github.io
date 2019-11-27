@@ -6,7 +6,7 @@
 
 Motivated by the need for fast, reliable methods of assessing protein structure in the era of big genomics, this continuing effort seeks to provide data-derived tools for high-throughput structural characterization of proteins directly from traditional (e.g., HSQC) nuclear magnetic resonance (NMR) spectra, prior to resonance assignment. By correlating the NMR chemical shifts and structure content of proteins of known conformation, these tools allow accurate, real-time estimation of secondary structure in previously uncharacterized proteins.
 
-Projects contributing to this effort have ... demonstrated significant empirical correlations between the averaged chemical shift (ACS) of ... backbone nuclei ... and observed secondary structure content (Sibley, Monique, Krish); ... (Mielke, Krishnan); ... ML ... (..., Krishnan).  
+Projects contributing to this effort have demonstrated an empirical correlation between the averaged chemical shift (ACS) of protein backbone nuclei and observed secondary structure (\alpha&#8209;helix) content (Sibley, Monique, Krish); ... (Mielke, Krishnan); ... ML ... (..., Krishnan).  
 
 ... employed ... rigorous ... statistical methods ..., ... establishing / providing formal basis ... for correlating ACS with structural class ... + ... influence of RCs, etc. ... . => ... Subsequent work ... ML ... . 
 

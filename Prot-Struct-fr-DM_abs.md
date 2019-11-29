@@ -6,9 +6,9 @@
 
 Motivated by the need for fast, reliable methods of assessing protein structure in the era of big genomics, this continuing effort seeks to provide data-derived tools for high-throughput structural characterization of proteins directly from traditional (e.g., HSQC) nuclear magnetic resonance (NMR) spectra, prior to resonance assignment. By correlating the NMR chemical shifts and structure content of proteins of known conformation, these tools allow accurate, real-time estimation of secondary structure in previously uncharacterized proteins.
 
-Projects contributing to this effort have, e.g., 1) demonstrated an empirical correlation between the averaged chemical shift (ACS) of protein backbone nuclei and observed secondary structure (&alpha;&#8209;helix and &beta;&#8209;strand) content as a fraction of overall conformation;<sup>1-3</sup> 2) confirmed these results by applying rigorous statistical methods (see below) to establish further correlations between ACS and protein structural classes;<sup>3-5</sup> and 3) extended the latter using a neural network strategy.<sup>6</sup>  
+Projects contributing to this effort have, e.g., 1) demonstrated an empirical correlation between the averaged chemical shift (ACS) of protein backbone nuclei and observed secondary structure (&alpha;&#8209;helix and &beta;&#8209;strand) content as a fraction of overall conformation;<sup>1-3</sup> 2) confirmed these results by applying rigorous statistical methods (see below) to establish further correlations between ACS and protein structural classes;<sup>3-5</sup> and 3) ... extended the foregoing by applying a neural network strategy ... => ... improved accuracy ... .<sup>6</sup>  
 
-Ongoing projects expand on previous deep learning approaches, and apply alternative machine learning strategies, including logistic regression, to revised datasets.\[In prep ...\]  
+Ongoing projects both expand on previous deep learning approaches, and apply other machine learning strategies, such as logistic regression, to ... revised ... datasets.\[In prep ...\]  
 
 <img width="75%" height="75%" src="/images/Prot-struct-classes.png?raw=true"/>
 

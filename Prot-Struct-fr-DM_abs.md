@@ -6,7 +6,7 @@
 
 Motivated by the need for fast, reliable methods of assessing protein structure in the era of big genomics, this continuing effort seeks to provide data-derived tools for high-throughput structural characterization of proteins directly from traditional (e.g., HSQC) nuclear magnetic resonance (NMR) spectra, prior to resonance assignment. By correlating the NMR chemical shifts and structure content of proteins of known conformation, these tools allow accurate, real-time estimation of secondary structure in previously uncharacterized proteins.
 
-Projects contributing to this effort have, e.g., 1) demonstrated an empirical correlation between the averaged chemical shift (ACS) of protein backbone nuclei and observed secondary structure (&alpha;&#8209;helix and &beta;&#8209;strand) content as a fraction of overall conformation (Sibley, Monique, Krish); 2) confirmed these results by applying rigorous statistical methods (see below) to establish further correlations between ACS and protein structural classes (Mielke, Krishnan \[all relevant\]); and 3) extended the foregoing by ... \[deep learning\] ... (..., Krishnan).  
+Projects contributing to this effort have, e.g., 1) demonstrated an empirical correlation between the averaged chemical shift (ACS) of protein backbone nuclei and observed secondary structure (&alpha;&#8209;helix and &beta;&#8209;strand) content as a fraction of overall conformation (Sibley, Monique, Krish); 2) confirmed these results by applying rigorous statistical methods (see below) to establish further correlations between ACS and protein structural classes (Mielke, Krishnan \[all relevant\]); and 3) extended the latter using a neural network strategy and an expanded dataset. (..., Krishnan)  
 
 Ongoing projects expand on previous deep learning strategies, and apply other machine learning approaches, including logistic regression, ... to ... XXa variety ofXX ... datasets.  
 
@@ -18,7 +18,7 @@ Ongoing projects expand on previous deep learning strategies, and apply other ma
 
 #### Methods
 
-*Protein Structural Class Identification from Averaged Chemical Shifts* \[Refs\]
+*Protein Structural Class Identification from Averaged Chemical Shifts: Statistical Basis* \[Refs\]
 
 \[... Strategy / approach / data/databases / KS test ... 
 

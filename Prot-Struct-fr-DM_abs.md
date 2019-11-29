@@ -8,7 +8,7 @@ Motivated by the need for fast, reliable methods of assessing protein structure 
 
 Projects contributing to this effort have, e.g., 1) demonstrated an empirical correlation between the averaged chemical shift (ACS) of protein backbone nuclei and observed secondary structure (&alpha;&#8209;helix and &beta;&#8209;strand) content as a fraction of overall conformation;<sup>1-3</sup> 2) confirmed these results by applying rigorous statistical methods (see below) to establish further correlations between ACS and protein structural classes;<sup>3-5</sup> and 3) extended the latter using a neural network strategy.<sup>6</sup>  
 
-Ongoing projects expand on previous deep learning approaches, and apply alternative machine learning strategies, including logistic regression, to revised datasets.  
+Ongoing projects expand on previous deep learning approaches, and apply alternative machine learning strategies, including logistic regression, to revised datasets.\[In prep ...\]  
 
 <img width="75%" height="75%" src="/images/Prot-struct-classes.png?raw=true"/>
 

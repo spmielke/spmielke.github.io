@@ -18,7 +18,7 @@ Ongoing projects expand on previous deep learning strategies, and apply other ma
 
 #### Methods
 
-*<Mielke, Krishnan>*
+*Protein Structural Class Identification from Averaged Chemical Shifts* \[Refs\]
 
 \[... Strategy / approach / data/databases / KS test ... 
 
@@ -27,6 +27,8 @@ Ongoing projects expand on previous deep learning strategies, and apply other ma
 ... Link to GH project / code ...
 
 Objective / Analytic Approach/Strategy / Data / Model / Evaluation:\]
+
+...
 
 #### GitHub Project Links
 

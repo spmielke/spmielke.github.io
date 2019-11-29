@@ -6,7 +6,7 @@
 
 Motivated by the need for fast, reliable methods of assessing protein structure in the era of big genomics, this continuing effort seeks to provide data-derived tools for high-throughput structural characterization of proteins directly from traditional (e.g., HSQC) nuclear magnetic resonance (NMR) spectra, prior to resonance assignment. By correlating the NMR chemical shifts and structure content of proteins of known conformation, these tools allow accurate, real-time estimation of secondary structure in previously uncharacterized proteins.
 
-Projects contributing to this effort have, e.g., 1) demonstrated an empirical correlation between the averaged chemical shift (ACS) of protein backbone nuclei and observed secondary structure (&alpha;&#8209;helix and &beta;&#8209;strand) content as a fraction of overall conformation;<sup>1-3</sup> 2) confirmed these results by applying rigorous statistical methods (see below) to establish further correlations between ACS and protein structural classes;(Mielke, Krishnan \[all relevant\]) and 3) extended the latter using a neural network strategy.(..., Krishnan)  
+Projects contributing to this effort have, e.g., 1) demonstrated an empirical correlation between the averaged chemical shift (ACS) of protein backbone nuclei and observed secondary structure (&alpha;&#8209;helix and &beta;&#8209;strand) content as a fraction of overall conformation;<sup>1-3</sup> 2) confirmed these results by applying rigorous statistical methods (see below) to establish further correlations between ACS and protein structural classes;<sup>3-5</sup> and 3) extended the latter using a neural network strategy.<sup>6</sup>  
 
 Ongoing projects expand on previous deep learning strategies, and apply other machine learning approaches, including logistic regression, ... to ... various ... datasets.  
 
@@ -56,4 +56,6 @@ chemical shifts in proteins. *Biophys. J.* **84**, 1223–1227.
 
 5. SP Mielke and VV Krishnan (2003) Chemical shift-based identification of protein structural classes. Biophysical Journal 84, 460A. 
 
-6. ...
+6. Kumar, A.V., Rehana, F.M.A., Cao, Y. and Krishnan, V.V. (2015) Application of data mining tools for classification of protein structural class from residue based averaged NMR chemical shifts. *Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics* **1854**, 1545-1552.
+
+

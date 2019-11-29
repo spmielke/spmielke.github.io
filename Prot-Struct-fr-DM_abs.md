@@ -20,11 +20,13 @@ Ongoing projects expand on previous deep learning strategies, and apply other ma
 
 *<Mielke, Krishnan>*
 
-... Strategy / approach / data/databases / KS test ... 
+\[... Strategy / approach / data/databases / KS test ... 
 
 ... Languages / platforms ... 
 
 ... Link to GH project / code ...
+
+Objective / Analytic Approach/Strategy / Data / Model / Evaluation:\]
 
 #### GitHub Project Links
 

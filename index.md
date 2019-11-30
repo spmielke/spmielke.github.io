@@ -8,7 +8,7 @@
 
 ### Data Science 
 
-[Protein Structure Estimation from Data Mining]<!-- (/sample_page) -->
+[Protein Structure Estimation from Data Mining](/Prot-Struct-fr-DM_abs.md)
 <img src="images/Bioinf-03_Fig1_color-3.png?raw=true"/>
 
 ---

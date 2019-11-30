@@ -18,7 +18,7 @@ Ongoing projects both expand on previous deep learning approaches, and apply oth
 
 #### Methods
 
-*Statistical Identification of Protein Structural Class from Averaged NMR Chemical Shifts*<sup>3-5</sup>
+*Distribution-Based Identification of Protein Structural Classes from Averaged NMR Chemical Shifts*<sup>3-5</sup>
 
 \[... Strategy / approach / data/databases / KS test ... 
 

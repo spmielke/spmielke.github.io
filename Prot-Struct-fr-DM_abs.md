@@ -14,6 +14,8 @@ Ongoing projects further explore deep learning strategies, as well as apply othe
 
 #### Impacts
 
+...
+
 ... "the observed correlation between ACS and SSC can be used to monitor structural changes in real time, such as in protein folding experiments, to detect large-scale structural changes in complex formation and to identify initial protein folds in high throughput proteomics applications." ... 
 
 ... \[cf., our similar statements:\] ...
@@ -28,6 +30,8 @@ situations in which other techniques are incapable of doing
 so (e.g. in studies of large and/or highly disordered proteins),
 and to facilitate initial protein fold identification in
 high throughput proteomics applications." ...
+
+...
 
 #### Methods
 

@@ -17,8 +17,7 @@ applying rigorous statistical methods (see below) to establish further correlati
 classes;<sup>3-5</sup> and 3) extended the latter work with a neural network model that improves the accuracy and specificity 
 of structural class estimation from ACS values.<sup>6</sup>  
 
-Ongoing projects further explore deep learning strategies, as well as apply other machine learning approaches, 
-such as logistic regression, to new and expanded datasets.<sup>7</sup>  
+Current projects further explore deep learning strategies, and apply other machine learning approaches, such as logistic regression, to new and expanded datasets.<sup>7</sup>  
 
 <img width="75%" height="75%" src="/images/Prot-struct-classes.png?raw=true"/>
 
@@ -97,5 +96,5 @@ averaged chemical shifts. *Bioinformatics* **19**, 2054–2064.
 6. Kumar, A.V., Rehana, F.M.A., Cao, Y. and Krishnan, V.V. (2015) Application of data mining tools for classification 
 of protein structural class from residue based averaged NMR chemical shifts. *Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics* **1854**, 1545-1552.
 
-7. ... In preparation.
+7. In preparation.
 

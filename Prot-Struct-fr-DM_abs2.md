@@ -19,7 +19,7 @@ of structural class estimation from ACS values.<sup>6</sup>
 
 Current projects further explore deep learning strategies, and apply other machine learning approaches, such as logistic regression, to new and expanded datasets.<sup>7</sup>  
 
-<img width="75%" height="75%" src="/images/Prot-struct-classes.png?raw=true"/>
+<img width="75%" height="100%" src="/images/Prot-struct-classes.png?raw=true"/>
 
 #### Impacts
 
@@ -78,23 +78,23 @@ xx. Outcome
 <!-- ... [Link](https://.../) ... -->
 1. Sibley, A.B., Cosman, M. and Krishnan, V.V. (2003) An empirical
 correlation between secondary structure content and averaged
-chemical shifts in proteins. *Biophys. J.* **84**, 1223–1227.
+chemical shifts in proteins. *Biophys. J.* 84, 1223–1227.
 
 2. Mielke, S.P. and Krishnan, V.V. (2005) Estimation of protein secondary structure content directly from NMR spectra 
 using an improved empirical correlation with averaged chemical shift. *Journal of Structural and Functional Genomics* 
-**6**, 281–285.
+6, 281–285.
 
 3. Mielke, S.P. and Krishnan, V.V. (2008) Characterization of protein secondary structure from NMR chemical shifts. 
-*Progress in NMR Spectroscopy* **54**, 141–165.
+*Progress in NMR Spectroscopy* 54, 141–165.
 
 4. [Mielke, S.P. and Krishnan, V.V. (2003) Protein structural class identification directly from NMR spectra using 
-averaged chemical shifts. *Bioinformatics* **19**, 2054–2064.](/Publications/Proteins/Mielke-Bioinformatics-2003.pdf)
+averaged chemical shifts. *Bioinformatics* 19, 2054–2064.](/Publications/Proteins/Mielke-Bioinformatics-2003.pdf)
 
 5. Mielke, S.P. and Krishnan, V.V. (2003) Chemical shift-based identification of protein structural classes. 
-*Biophysical Journal* **84**, 460A. 
+*Biophysical Journal* 84, 460A. 
 
 6. Kumar, A.V., Rehana, F.M.A., Cao, Y. and Krishnan, V.V. (2015) Application of data mining tools for classification 
-of protein structural class from residue based averaged NMR chemical shifts. *Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics* **1854**, 1545-1552.
+of protein structural class from residue based averaged NMR chemical shifts. *Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics* 1854, 1545-1552.
 
-7. In preparation.
+7. Mielke, S.P. In preparation.
 

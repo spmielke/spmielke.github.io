@@ -87,8 +87,8 @@ using an improved empirical correlation with averaged chemical shift. *Journal o
 3. Mielke, S.P. and Krishnan, V.V. (2008) Characterization of protein secondary structure from NMR chemical shifts. 
 *Progress in NMR Spectroscopy* **54**, 141–165.
 
-4. Mielke, S.P. and Krishnan, V.V. (2003) Protein structural class identification directly from NMR spectra using 
-averaged chemical shifts. *Bioinformatics* **19**, 2054–2064.
+4. [Mielke, S.P. and Krishnan, V.V. (2003) Protein structural class identification directly from NMR spectra using 
+averaged chemical shifts. *Bioinformatics* **19**, 2054–2064.](/Publications/Proteins/Mielke-Bioinformatics-2003.pdf)
 
 5. Mielke, S.P. and Krishnan, V.V. (2003) Chemical shift-based identification of protein structural classes. 
 *Biophysical Journal* **84**, 460A. 

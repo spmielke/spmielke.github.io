@@ -28,6 +28,6 @@ chemical shifts in proteins. *Biophys. J.* 84, 1223–1227.
 
 6. Kumar, A.V., Rehana, F.M.A., Cao, Y. and Krishnan, V.V. (2015) Application of data mining tools for classification of protein structural class from residue based averaged NMR chemical shifts. *Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics* 1854, 1545-1552.
 
-7. In preparation.
+7. Mielke, S.P. In preparation.
 
 

@@ -10,7 +10,7 @@ Projects contributing to this effort have, e.g., 1) demonstrated an empirical co
 
 Current projects further explore deep learning strategies, and apply other machine learning approaches, such as logistic regression, to new and expanded datasets.<sup>7</sup>  
 
-<img width="90%" height="90%" src="/images/Prot-struct-classes.png?raw=true"/>
+<img width="100%" height="100%" src="/images/Prot-struct-classes.png?raw=true"/>
 
 #### References
 <!-- ... [Link](https://.../) ... -->

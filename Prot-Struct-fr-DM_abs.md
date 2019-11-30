@@ -8,7 +8,7 @@ Motivated by the need for fast, reliable methods of assessing protein structure 
 
 Projects contributing to this effort have, e.g., 1) demonstrated an empirical correlation between the averaged chemical shift (ACS) of protein backbone nuclei and observed secondary structure (&alpha;&#8209;helix and &beta;&#8209;strand) content as a fraction of overall conformation;<sup>1-3</sup> 2) confirmed these results by applying rigorous statistical methods (see below) to establish further correlations between ACS and protein structural classes;<sup>3-5</sup> and 3) extended the latter with a neural network model that improves the accuracy and specificity of structural class estimation from ACS values.<sup>6</sup>  
 
-Ongoing projects both expand on previous deep learning approaches, and apply other machine learning strategies, such as logistic regression, to new and revised datasets.\[In prep ...\]  
+Ongoing projects both expand on previous deep learning approaches, and apply other machine learning strategies, such as logistic regression, to new and revised datasets.<sup>7</sup>  
 
 <img width="75%" height="75%" src="/images/Prot-struct-classes.png?raw=true"/>
 
@@ -61,5 +61,7 @@ chemical shifts in proteins. *Biophys. J.* **84**, 1223–1227.
 5. Mielke, S.P. and Krishnan, V.V. (2003) Chemical shift-based identification of protein structural classes. *Biophysical Journal* **84**, 460A. 
 
 6. Kumar, A.V., Rehana, F.M.A., Cao, Y. and Krishnan, V.V. (2015) Application of data mining tools for classification of protein structural class from residue based averaged NMR chemical shifts. *Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics* **1854**, 1545-1552.
+
+7. ... In preparation.
 
 

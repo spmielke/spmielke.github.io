@@ -5,7 +5,7 @@ M Dong, SP Mielke, M Amin, S Vassiliev, and MR Gunner. Comparison of chlorophyll
 -->
 ### Protein Bioinformatics and Structure Prediction
 
-#### *See* [Repository](https://github.com/spmielke/Protein-data-mining-tools/tree/master/ACS-Structure-Correlation) *for selected project files.*
+(*See* [Repository](https://github.com/spmielke/Protein-data-mining-tools/tree/master/ACS-Structure-Correlation) *for selected project files.*)
 
 SP Mielke and VV Krishnan (2008) Characterization of protein secondary structure from NMR chemical shifts. Progress in NMR Spectroscopy 54, 141–165.
 

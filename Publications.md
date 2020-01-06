@@ -13,7 +13,7 @@ SP Mielke and VV Krishnan (2004) An evaluation of chemical shift index-based sec
 
 [SP Mielke and VV Krishnan (2003) Protein structural class identification directly from NMR spectra using averaged chemical shifts. Bioinformatics 19, 2054–2064.](/Publications/Proteins/Mielke-Bioinformatics-2003.pdf) 
 
-(*See [Repository](https://github.com/spmielke/Protein-data-mining-tools/tree/master/ACS-Structure-Correlation) for selected project files.*)
+(*See* [Repository](https://github.com/spmielke/Protein-data-mining-tools/tree/master/ACS-Structure-Correlation) *for selected project files.*)
 
 SP Mielke and VV Krishnan (2003) Chemical shift-based identification of protein structural classes. Biophysical Journal 84, 460A. (Abstract)
 

@@ -14,7 +14,7 @@ Current projects further explore deep learning strategies, and apply other machi
 
 (*See* [Repository](https://github.com/spmielke/Protein-data-mining-tools/tree/master/ACS-Structure-Correlation) *for selected project files.*)
 
-#### [References](/Publications.md)
+#### [References](https://spmielke.github.io/Publications.html)
 <!-- ... [Link](https://.../) ... -->
 <!-- 1. Sibley, A.B., Cosman, M. and Krishnan, V.V. (2003) An empirical
 correlation between secondary structure content and averaged

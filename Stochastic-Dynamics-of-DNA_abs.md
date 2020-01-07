@@ -12,7 +12,7 @@ Current projects further explore deep learning strategies, and apply other machi
 
 <img width="100%" height="100%" src="/images/Prot-struct-classes.png?raw=true"/> -->
 
-(*See* [Repository](https://github.com/spmielke/Protein-data-mining-tools/tree/master/ACS-Structure-Correlation) *for selected project files.*)
+(*See* [Repository](https://github.com/spmielke/Stochastic-dynamics-of-in-vivo-DNA/tree/master/Brownian-Dynamics-C-Models) *for selected project files.*)
 
 #### [References](https://spmielke.github.io/Publications.html)
 <!-- ... [Link](https://.../) ... -->

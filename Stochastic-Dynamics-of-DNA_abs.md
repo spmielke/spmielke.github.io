@@ -14,12 +14,12 @@ Current projects further explore deep learning strategies, and apply other machi
 
 (*See* [Repository](https://github.com/spmielke/Protein-data-mining-tools/tree/master/ACS-Structure-Correlation) *for selected project files.*)
 
-#### References
+#### [References](/Publications.md)
 <!-- ... [Link](https://.../) ... -->
-1. Sibley, A.B., Cosman, M. and Krishnan, V.V. (2003) An empirical
+<!-- 1. Sibley, A.B., Cosman, M. and Krishnan, V.V. (2003) An empirical
 correlation between secondary structure content and averaged
 chemical shifts in proteins. *Biophys. J.* 84, 1223–1227.
 
 2. Mielke, S.P. and Krishnan, V.V. (2005) Estimation of protein secondary structure content directly from NMR spectra using an improved empirical correlation with averaged chemical shift. *Journal of Structural and Functional Genomics* 6, 281–285.
 
-3. Mielke, S.P. and Krishnan, V.V. (2008) Characterization of protein secondary structure from NMR chemical shifts. *Progress in NMR Spectroscopy* 54, 141–165.
+3. Mielke, S.P. and Krishnan, V.V. (2008) Characterization of protein secondary structure from NMR chemical shifts. *Progress in NMR Spectroscopy* 54, 141–165. -->

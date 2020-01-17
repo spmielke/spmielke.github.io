@@ -1,4 +1,4 @@
-#### [About](/About.md) <!--&emsp;&emsp;Research--> &emsp;&emsp;[Publications](/Publications.md) &emsp;&emsp;[Notebooks](/Notebooks.md) &emsp;&emsp;\[Under Construction\]
+#### [About](/About.md) <!--&emsp;&emsp;Research--> &emsp;&emsp;[Publications](/Publications.md) &emsp;&emsp;[Projects & Notebooks](/Notebooks.md) &emsp;&emsp;\[Under Construction\]
 
 ---
 

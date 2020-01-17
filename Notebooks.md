@@ -1,5 +1,5 @@
 ## Notebooks
 
-**[Logistic Regression](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/57a0f034-6120-4b3e-95a5-07be10653f72/view?access_token=73dc7eaec097c4e516eae454a8a2fc26cbaa142d99c03c55f29afadee50dfe89)**
+**[Logistic Regression](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/311241d9-6708-4fa2-8d1f-61688422a5a6/view?access_token=e4f458c98ee82a921877c971c2b1994cedcbd6e404110a4b84a8980d997eb852)**
 
 **[Machine Learning / Data Science](https://github.com/spmielke/Machine-learning-notebooks)** (Repository)

@@ -7,10 +7,12 @@
 
 ---
 
-### Data Science 
+### Data Science     <!-- ### Published Research Projects (with link) -->
 
-[Protein Structure Estimation from Data Mining](/Prot-Struct-fr-DM_abs.md)
-<img src="images/Bioinf-03_Fig1_color-3.png?raw=true"/>
+[Protein Structure Estimation from Data Mining](/Prot-Struct-fr-DM_abs.md)     <!-- Cut -->    
+<img src="images/Bioinf-03_Fig1_color-3.png?raw=true"/>     <!-- Smaller? -->
+
+<!-- ### Machine-Learning Projects -->
 
 ---
 

@@ -65,7 +65,7 @@
 
 <img src="images/LHC.png?raw=true"/>
 
-[Large Hadron Collider (CERN) - YouTube Edit](https://www.youtube.com/watch?v=o9c60oj-7og)  
+[**Large Hadron Collider (CERN) - YouTube Edit**](https://www.youtube.com/watch?v=o9c60oj-7og)  
 (*Featuring Nobel Laureate, Steven Weinberg*)  
 Steven Mielke, David George  
 Science & Technology Features, CNN, 2000  

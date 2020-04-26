@@ -3,11 +3,15 @@
 
 ---
 
-## Portfolio
+# Portfolio
 
 ---
 
-### Data Science     <!-- ### Published Research Projects (with link) -->
+## Data Science     <!-- ### Published Research Projects (with link) -->
+
+### Machine-Learning Notebooks
+
+### Reasearch Projects
 
 [Protein Structure Estimation from Data Mining](/Prot-Struct-fr-DM_abs.md)     <!-- Cut -->    
 <img src="images/Bioinf-03_Fig1_color-3.png?raw=true"/>     <!-- Smaller? -->
@@ -24,7 +28,7 @@
 -->
 ---
 
-### Modeling and Simulation
+## Modeling and Simulation
 
 [Stochastic Dynamics of *in vivo* DNA](/Stochastic-Dynamics-of-DNA_abs.md)
 <img src="images/twin-loop2.png?raw=true"/>
@@ -41,7 +45,7 @@
 -->
 ---
 
-### Measurement and Analysis
+## Measurement and Analysis
 
 [Photoacoustic Spectroscopy and Nonlinear Analysis of Photosynthetic Energy-Storage]<!-- (http://example.com/) -->
 <img src="images/Biophys-of-PS_Figs.png?raw=true"/>
@@ -55,7 +59,7 @@
 -->
 ---
 
-### Teaching and Science Communication  
+## Teaching and Science Communication  
 
 <img src="images/LHC.png?raw=true"/>
 

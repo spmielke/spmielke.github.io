@@ -1,4 +1,4 @@
-#### [About](/About.md) <!--&emsp;&emsp;Research--> &emsp;&emsp;[Repositories](/Notebooks.md) &emsp;&emsp;[Publications](/Publications.md)
+#### [About](/IBM_data_science.md) <!--&emsp;&emsp;Research--> &emsp;&emsp;[Repositories](/Notebooks.md) &emsp;&emsp;[Publications](/Publications.md)
 \[Under Construction\]
 
 ---

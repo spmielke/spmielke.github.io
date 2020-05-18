@@ -23,7 +23,7 @@ IBM / Coursera
 
 &emsp;&#8226; [*Credential & Skills*](https://www.youracclaim.com/badges/a6857ccb-88c6-4749-8b98-c028eb498e66/public_url)
 
-[Data Visualization with Python (Certificate)](https://www.coursera.org/account/accomplishments/certificate/ETPMNUBQMG45)
+[Data Visualization with Python (Certificate)](https://coursera.org/share/6515ceeb4065f4cdd6ec2e496d1ed97a)
 
 &emsp;&#8226; [*Credential & Skills*](https://www.youracclaim.com/badges/cb757dbf-77ab-420f-8572-d10a05cc2efa/public_url)
 

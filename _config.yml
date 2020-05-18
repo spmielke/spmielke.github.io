@@ -35,6 +35,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <!-- <a href="https://www.linkedin.com/in/steven-mielke/">View My LinkedIn Profile</a> --> 
   
   <a href="https://github.com/spmielke">View My GitHub Profile</a>
+  
+  spmielke@gmail.com
 
   
 theme: jekyll-theme-minimal

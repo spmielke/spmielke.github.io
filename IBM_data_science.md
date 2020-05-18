@@ -1,7 +1,7 @@
 # IBM Data Science Professional Certificate
 IBM / Coursera
 
-[**Open Source Tools for Data Science** (Certificate)](https://www.coursera.org/account/accomplishments/records/EHWDWML9PJVS)
+[__Open Source Tools for Data Science__ (Certificate)](https://www.coursera.org/account/accomplishments/records/EHWDWML9PJVS)
 
 &emsp;&#8226; [*Credential & Skills*](https://www.youracclaim.com/badges/205f1b28-ee78-4ddc-bdee-c0e47f293773/public_url)
 

@@ -4,7 +4,8 @@ IBM / Coursera
 <br>
 
 [Open Source Tools for Data Science](https://www.coursera.org/account/accomplishments/records/EHWDWML9PJVS)
-https://www.youracclaim.com/badges/205f1b28-ee78-4ddc-bdee-c0e47f293773/public_url
+
+[*Credential & Skills*](https://www.youracclaim.com/badges/205f1b28-ee78-4ddc-bdee-c0e47f293773/public_url)
 
 [Data Science Methodology](https://www.coursera.org/account/accomplishments/records/GAAP72MQNVF3)
 

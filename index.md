@@ -28,7 +28,7 @@
 
 ---
 
-[Semi-Empirical Analysis of an Atomic Iso-Electronic Sequence]<!-- (/pdf/sample_presentation.pdf) -->
+[Semi-Empirical Analysis of Atomic Configuration Energies]<!-- (/pdf/sample_presentation.pdf) -->
 <img width="85%" height="85%" src="images/Ar-sequence.png?raw=true"/>
 
 <!-- ---

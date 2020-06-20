@@ -15,7 +15,6 @@
 <center>
   <img width="90%" height="90%" align="middle" src="images/SMS_wordcloud2.png?raw=true"/>
 </center>
-<br>
 
 ---
 

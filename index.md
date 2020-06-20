@@ -38,12 +38,12 @@
 
 ## Modeling and Simulation
 
-[Sequence-Dependent Simulation of Superhelical DNA Dynamics](/Stochastic-Dynamics-of-DNA_abs.md)
+[Sequence-Dependent Modeling & Simulation of Superhelical DNA Dynamics](/Stochastic-Dynamics-of-DNA_abs.md)
 <img src="images/twin-loop2.png?raw=true"/>
 
 ---
 
-[Monte-Carlo Analysis of Redox and Binding Energies in a Novel Photosystem]<!-- (http://example.com/) -->
+[Homology Modeling & Monte-Carlo Analysis of Redox and Binding Energies in a Novel Photosystem]<!-- (http://example.com/) -->
 <img src="images/AM-homology.png?raw=true"/>
 
 <!-- ---

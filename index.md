@@ -43,7 +43,7 @@
 
 ---
 
-[Redox and Binding Energies in a Novel Photosystem]<!-- (http://example.com/) -->
+[Monte-Carlo Analysis of Redox and Binding Energies in a Novel Photosystem]<!-- (http://example.com/) -->
 <img src="images/AM-homology.png?raw=true"/>
 
 <!-- ---

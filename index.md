@@ -38,7 +38,7 @@
 
 ## Modeling and Simulation
 
-[Stochastic Dynamics of *in vivo* DNA](/Stochastic-Dynamics-of-DNA_abs.md)
+[Sequence-Dependent Simulation of Superhelical DNA Dynamics](/Stochastic-Dynamics-of-DNA_abs.md)
 <img src="images/twin-loop2.png?raw=true"/>
 
 ---

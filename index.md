@@ -12,7 +12,7 @@
 ### Machine-Learning Projects & Notebooks
 
 [SMS Spam Detection (*SVM / Python, MATLAB*)]<!-- (/pdf/sample_presentation.pdf) -->
-<!-- <img width="85%" height="85%" src="images/x.png?raw=true"/> -->
+<img width="85%" height="85%" src="images/SMS_wordcloud-white.png?raw=true"/>
 
 [Insurance Risk Classification (*Logistic Regression / Python*)](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/311241d9-6708-4fa2-8d1f-61688422a5a6/view?access_token=e4f458c98ee82a921877c971c2b1994cedcbd6e404110a4b84a8980d997eb852)
 

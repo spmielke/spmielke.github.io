@@ -7,36 +7,41 @@
 
 ---
 
-## Data Science     <!-- ### Published Research Projects (with link) -->
+## Machine Learning & Data Science     <!-- ### Published Research Projects (with link) -->
 
-### Machine-Learning Projects & Notebooks
+<!--### Machine-Learning Projects & Notebooks -->
 
-[SMS Spam Detection (*SVM / Python, MATLAB*)]<!-- (/pdf/sample_presentation.pdf) -->
-<center>
-  <img width="90%" height="60%" align="middle" src="images/SMS_wordcloud2.png?raw=true"/>
-</center>
-<br>
-
-[Pathrise Fellowship Outcomes Prediction (*Various Models / Python*)]<!-- (/pdf/sample_presentation.pdf) -->
-
-[Insurance Risk Classification (*Logistic Regression / Python*)](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/311241d9-6708-4fa2-8d1f-61688422a5a6/view?access_token=e4f458c98ee82a921877c971c2b1994cedcbd6e404110a4b84a8980d997eb852)
-
-### Reasearch Projects
+<!-- ### Reasearch Projects -->
 
 [Protein Structure Estimation from Data-Mining](/Prot-Struct-fr-DM_abs.md)     <!-- Cut -->    
 <img src="images/Bioinf-03_Fig1_color-3.png?raw=true"/>     <!-- Smaller? -->
 
-<!-- ### Machine-Learning Projects -->
+---
+
+[SMS Spam Detection (*SVM / Python, MATLAB*)]<!-- (/pdf/sample_presentation.pdf) -->
+<center>
+  <img width="90%" height="35%" align="middle" src="images/SMS_wordcloud2.png?raw=true"/>
+</center>
+<br>
 
 ---
 
 [Semi-Empirical Analysis of Atomic Configuration Energies]<!-- (/pdf/sample_presentation.pdf) -->
 <img width="85%" height="85%" src="images/Ar-sequence.png?raw=true"/>
 
+---
+
+[Pathrise Fellowship Outcomes Prediction (*Various Models / Python*)]<!-- (/pdf/sample_presentation.pdf) -->
+
+---
+
+[Insurance Risk Classification (*Logistic Regression / Python*)](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/311241d9-6708-4fa2-8d1f-61688422a5a6/view?access_token=e4f458c98ee82a921877c971c2b1994cedcbd6e404110a4b84a8980d997eb852)
+
+<!-- ### Machine-Learning Projects -->
+
 <!-- ---
 [Project 3 Title](http://example.com/)
 -->
----
 
 ## Modeling and Simulation
 

@@ -27,7 +27,7 @@
 ---
 
 [Nonlinear Optimization of Atomic Configuration Energies]<!-- (/pdf/sample_presentation.pdf) -->
-<img width="75%" height="75%" src="images/Ar-sequence.png?raw=true"/>
+<img width="80%" height="80%" src="images/Ar-sequence.png?raw=true"/>
 
 ---
 

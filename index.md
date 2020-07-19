@@ -7,7 +7,7 @@
 
 ---
 
-## Machine Learning & Data Science     <!-- ### Published Research Projects (with link) -->
+## Machine Learning and Data Science     <!-- ### Published Research Projects (with link) -->
 
 <!--### Machine-Learning Projects & Notebooks -->
 
@@ -27,7 +27,7 @@
 ---
 
 [Nonlinear Optimization of Atomic Configuration Energies]<!-- (/pdf/sample_presentation.pdf) -->
-<img width="85%" height="85%" src="images/Ar-sequence.png?raw=true"/>
+<img width="75%" height="75%" src="images/Ar-sequence.png?raw=true"/>
 
 ---
 

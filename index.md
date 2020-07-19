@@ -20,13 +20,13 @@
 
 [SMS Spam Detection (*SVM / Python, MATLAB*)]<!-- (/pdf/sample_presentation.pdf) -->
 <center>
-  <img width="90%" height="35%" align="middle" src="images/SMS_wordcloud2.png?raw=true"/>
+  <img width="90%" height="20%" align="middle" src="images/SMS_wordcloud2.png?raw=true"/>
 </center>
 <br>
 
 ---
 
-[Semi-Empirical Analysis of Atomic Configuration Energies]<!-- (/pdf/sample_presentation.pdf) -->
+[Nonlinear Optimization of Atomic Configuration Energies]<!-- (/pdf/sample_presentation.pdf) -->
 <img width="85%" height="85%" src="images/Ar-sequence.png?raw=true"/>
 
 ---

@@ -20,7 +20,7 @@
 
 [SMS Spam Detection (*SVM / Python, MATLAB*)]<!-- (/pdf/sample_presentation.pdf) -->
 <center>
-  <img width="60%" height="60%" align="middle" src="images/SMS_wordcloud2.png?raw=true"/>
+  <img width="75%" height="75%" align="middle" src="images/SMS_wordcloud2.png?raw=true"/>
 </center>
 <br>
 

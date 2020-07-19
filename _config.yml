@@ -2,7 +2,7 @@ title: <!--Dr.&nbsp;Steven&nbsp;P.&nbsp;Mielke--> Dr. Steven Mielke # your name 
 logo: "/images/SPM_photo_mod4.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <b>Steve Mielke</b> is a researcher and educator in the Austin, Texas area. He is a former programmer and analyst at NASA, 
-  NASA Postdoctoral Program fellow, NIH National Research Service Award recipient, and AAAS Mass Media fellow. [About](/About.md)
+  NASA Postdoctoral Program fellow, NIH National Research Service Award recipient, and AAAS Mass Media fellow. <a href="About.md">About</a>
   <!--
   His interdisciplinary research interests include molecular biophysics, computation, complexity, 
   history and philosophy of science, and climate change. Current projects apply machine learning 

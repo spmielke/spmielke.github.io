@@ -9,7 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   and other data science methodologies to problems in these and other areas. 
   -->
   
-  <a href="About.md">About</a>
+  <!-- <a href="About.md">About</a> --> ![About](About.md)
   
   <br><br>
  

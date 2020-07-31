@@ -7,7 +7,9 @@
 
 ---
 
-## Machine Learning and Data Science     <!-- ### Published Research Projects (with link) -->
+## Projects and Notebooks
+
+### Machine Learning and Data Science     <!-- ### Published Research Projects (with link) -->
 
 <!--### Machine-Learning Projects & Notebooks -->
 
@@ -43,7 +45,7 @@
 [Project 3 Title](http://example.com/)
 -->
 
-## Modeling and Simulation
+### Modeling and Simulation
 
 [Sequence-Dependent Modeling & Simulation of Superhelical DNA Dynamics](/Stochastic-Dynamics-of-DNA_abs.md)
 <img src="images/twin-loop2.png?raw=true"/>
@@ -60,7 +62,7 @@
 -->
 ---
 
-## Measurement and Analysis
+### Measurement and Analysis
 
 [Photoacoustic Spectroscopy and Nonlinear Analysis of Photosynthetic Energy-Storage]<!-- (http://example.com/) -->
 <img src="images/Biophys-of-PS_Figs.png?raw=true"/>
@@ -74,7 +76,7 @@
 -->
 ---
 
-## Teaching and Science Communication  
+### Teaching and Science Communication  
 
 <img src="images/LHC.png?raw=true"/>
 

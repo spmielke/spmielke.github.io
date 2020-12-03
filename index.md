@@ -20,7 +20,7 @@
 
 ---
 
-[SMS Spam Detection (*SVM / Python, MATLAB*)]<!-- (/pdf/sample_presentation.pdf) -->
+[SMS Spam Classifier (*SVM / Python, MATLAB*)]<!-- (/pdf/sample_presentation.pdf) -->
 <center>
   <img width="75%" height="75%" align="middle" src="images/SMS_wordcloud2.png?raw=true"/>
 </center>
@@ -28,16 +28,16 @@
 
 ---
 
-[Nonlinear Optimization of Atomic Configuration Energies]<!-- (/pdf/sample_presentation.pdf) -->
+[Nonlinear Semi-Empirical Optimization of Atomic Configuration Energies]<!-- (/pdf/sample_presentation.pdf) -->
 <img width="80%" height="80%" src="images/Ar-sequence.png?raw=true"/>
 
 ---
 
-[Pathrise Fellowship Outcomes Prediction (*Various Models / Python*)]<!-- (/pdf/sample_presentation.pdf) -->
+[Prediction of 'Pathrise' Fellowship Outcomes (*Various Models / Python*)]<!-- (/pdf/sample_presentation.pdf) -->
 
 ---
 
-[Insurance Risk Classification (*Logistic Regression / Python*)](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/311241d9-6708-4fa2-8d1f-61688422a5a6/view?access_token=e4f458c98ee82a921877c971c2b1994cedcbd6e404110a4b84a8980d997eb852)
+[Insurance Risk Classifier (*Logistic Regression / Python*)](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/311241d9-6708-4fa2-8d1f-61688422a5a6/view?access_token=e4f458c98ee82a921877c971c2b1994cedcbd6e404110a4b84a8980d997eb852)
 
 <!-- ### Machine-Learning Projects -->
 

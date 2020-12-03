@@ -28,7 +28,7 @@
 
 ---
 
-[Nonlinear Semi-Empirical Optimization of Atomic Configuration Energies]<!-- (/pdf/sample_presentation.pdf) -->
+[Nonlinear, Semi-Empirical Optimization of Atomic Configuration Energies]<!-- (/pdf/sample_presentation.pdf) -->
 <img width="80%" height="80%" src="images/Ar-sequence.png?raw=true"/>
 
 ---

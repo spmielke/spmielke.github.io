@@ -21,8 +21,7 @@
 ---
 
 [SMS Spam Classifier (*SVM / Python, MATLAB*)](https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/SVM/SMS-Spam/SMS_SVM_classifier.pdf)
-
-*See [repository](https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/SVM/SMS-Spam)*
+&emsp;(see [repository](https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/SVM/SMS-Spam))
 <center>
   <img width="75%" height="75%" align="middle" src="images/SMS_wordcloud2.png?raw=true"/>
 </center>

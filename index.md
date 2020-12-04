@@ -20,7 +20,7 @@
 
 ---
 
-[SMS Spam Classifier (*SVM / Python, MATLAB*)](Machine-learning-notebooks/blob/master/Classification/SVM/SMS-Spam/SMS_SVM_classifier.pdf)
+[SMS Spam Classifier (*SVM / Python, MATLAB*)](/Machine-learning-notebooks/blob/master/Classification/SVM/SMS-Spam/SMS_SVM_classifier.pdf)
 <!--(https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/SVM/SMS-Spam/SMS_SVM_classifier.pdf)-->
 <center>
   <img width="75%" height="75%" align="middle" src="images/SMS_wordcloud2.png?raw=true"/>

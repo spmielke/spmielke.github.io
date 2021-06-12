@@ -15,7 +15,7 @@
 
 <!-- ### Reasearch Projects -->
 
-[TensorFlow Hand-Sign Identifier (*TensorFlow / Python*)](https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/SVM/SMS-Spam/SMS_SVM_classifier.pdf)
+[**TensorFlow** Hand-Sign Identifier (*TensorFlow / Python*)](https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/SVM/SMS-Spam/SMS_SVM_classifier.pdf)
 &emsp;(see [repository](https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/SVM/SMS-Spam))
 
 [Protein Structure Estimation from Data-Mining](/Prot-Struct-fr-DM_abs.md)     <!-- Cut -->    

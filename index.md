@@ -15,7 +15,7 @@
 
 <!-- ### Reasearch Projects -->
 
-[TensorFlow Hand-Sign Identifier (*TensorFlow / Python*)](https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/Deep-Learning/TensorFlow_Hand-Sign_Identifier/Hand-Signs_0-5_2.pdf)
+[TensorFlow Hand-Sign Identification (*TensorFlow / Python*)](https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/Deep-Learning/TensorFlow_Hand-Sign_Identifier/Hand-Signs_0-5_2.pdf)
 &emsp;(see [repository](https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/Deep-Learning/TensorFlow_Hand-Sign_Identifier))
 
 [Protein Structure Estimation from Data-Mining](/Prot-Struct-fr-DM_abs.md)     <!-- Cut -->    

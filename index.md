@@ -39,7 +39,7 @@
 
 ---
 
-[Prediction of Pathrise\^1 Fellowship Outcomes (*Various Models / Python*)]<!-- (/pdf/sample_presentation.pdf) -->
+[Prediction of Pathrise<sup>a</> Fellowship Outcomes (*Various Models / Python*)]<!-- (/pdf/sample_presentation.pdf) -->
 
 ---
 

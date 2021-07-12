@@ -34,12 +34,12 @@
 
 ---
 
-[Nonlinear, Semi-Empirical Optimization of Atomic Configuration Energies]<!-- (/pdf/sample_presentation.pdf) -->
+[Semi-Empirical, Nonlinear Optimization of Atomic Configuration Energies]<!-- (/pdf/sample_presentation.pdf) -->
 <img width="80%" height="80%" src="images/Ar-sequence.png?raw=true"/>
 
 ---
 
-[Prediction of Pathrise\(^{1}\) Fellowship Outcomes (*Various Models / Python*)]<!-- (/pdf/sample_presentation.pdf) -->
+[Prediction of Pathrise\^1 Fellowship Outcomes (*Various Models / Python*)]<!-- (/pdf/sample_presentation.pdf) -->
 
 ---
 

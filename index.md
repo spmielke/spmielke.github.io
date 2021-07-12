@@ -25,7 +25,7 @@
 
 ---
 
-[SMS Spam Classification (*SVM / Python, MATLAB*)](https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/SVM/SMS-Spam/SMS_SVM_classifier.pdf)
+[SMS Spam Classification & Natural Language Processing (*SVM / Python, MATLAB*)](https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/SVM/SMS-Spam/SMS_SVM_classifier.pdf)
 &emsp;(see [repository](https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/SVM/SMS-Spam))
 <center>
   <img width="75%" height="75%" align="middle" src="images/SMS_wordcloud2.png?raw=true"/>
@@ -34,12 +34,12 @@
 
 ---
 
-[Semi-Empirical, Nonlinear Optimization of Atomic Configuration Energies]<!-- (/pdf/sample_presentation.pdf) -->
+[Semi-Empirical Optimization of Atomic Configuration Energies]<!-- (/pdf/sample_presentation.pdf) -->
 <img width="80%" height="80%" src="images/Ar-sequence.png?raw=true"/>
 
 ---
 
-[Prediction of Pathrise<sup>a</> Fellowship Outcomes (*Various Models / Python*)]<!-- (/pdf/sample_presentation.pdf) -->
+[Prediction of Pathrise<sup>a</sup> Fellowship Outcomes (*Various Models / Python*)]<!-- (/pdf/sample_presentation.pdf) -->
 
 ---
 
@@ -58,7 +58,7 @@
 
 ---
 
-[Homology Modeling & Monte-Carlo Analysis of Redox and Binding Energies in a Novel Photosystem]<!-- (http://example.com/) -->
+[Homology Modeling & Monte-Carlo Analysis of Redox and Binding Energies in Novel Photosystems]<!-- (http://example.com/) -->
 <img src="images/AM-homology.png?raw=true"/>
 
 <!-- ---
@@ -70,7 +70,7 @@
 
 ### Measurement and Analysis
 
-[Photoacoustic Spectroscopy and Nonlinear Analysis of Photosynthetic Energy-Storage]<!-- (http://example.com/) -->
+[Photoacoustic Spectroscopy and Nonlinear Analysis of Photosynthetic Energy-Storage Efficiencies]<!-- (http://example.com/) -->
 <img src="images/Biophys-of-PS_Figs.png?raw=true"/>
 
 <!--

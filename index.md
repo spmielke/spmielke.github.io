@@ -15,15 +15,17 @@
 
 <!-- ### Reasearch Projects -->
 
-[TensorFlow Hand-Sign Identification (*TensorFlow / Python*)](https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/Deep-Learning/TensorFlow_Hand-Sign_Identifier/Hand-Signs_0-5_2.pdf)
-&emsp;(see [repository](https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/Deep-Learning/TensorFlow_Hand-Sign_Identifier))
-
 [Protein Structure Estimation from Data-Mining](/Prot-Struct-fr-DM_abs.md)     <!-- Cut -->    
 <img src="images/Bioinf-03_Fig1_color-3.png?raw=true"/>     <!-- Smaller? -->
 
 ---
 
-[SMS Spam Classifier (*SVM / Python, MATLAB*)](https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/SVM/SMS-Spam/SMS_SVM_classifier.pdf)
+[TensorFlow Hand-Sign Identification (*TensorFlow / Python*)](https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/Deep-Learning/TensorFlow_Hand-Sign_Identifier/Hand-Signs_0-5_2.pdf)
+&emsp;(see [repository](https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/Deep-Learning/TensorFlow_Hand-Sign_Identifier))
+
+---
+
+[SMS Spam Classification (*SVM / Python, MATLAB*)](https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/SVM/SMS-Spam/SMS_SVM_classifier.pdf)
 &emsp;(see [repository](https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/SVM/SMS-Spam))
 <center>
   <img width="75%" height="75%" align="middle" src="images/SMS_wordcloud2.png?raw=true"/>

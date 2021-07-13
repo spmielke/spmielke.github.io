@@ -20,7 +20,7 @@
 
 ---
 
-[Multi-Class Hand-Sign Recognition in TensorFlow (*TensorFlow / Python*)](https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/Deep-Learning/TensorFlow_Hand-Sign_Identifier/Hand-Signs_0-5_2.pdf)
+[Multi-Class Hand-Sign Recognition Using TensorFlow (*TensorFlow / Python*)](https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/Deep-Learning/TensorFlow_Hand-Sign_Identifier/Hand-Signs_0-5_2.pdf)
 &emsp;(see [repository](https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/Deep-Learning/TensorFlow_Hand-Sign_Identifier))
 
 ---

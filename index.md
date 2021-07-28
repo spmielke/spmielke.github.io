@@ -20,8 +20,12 @@
 
 ---
 
-[Multi-Class Hand-Sign Recognition Using TensorFlow (*TensorFlow / Python*)](https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/Deep-Learning/TensorFlow_Hand-Sign_Identifier/Hand-Signs_0-5_2.pdf)
-&emsp;(see [repository](https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/Deep-Learning/TensorFlow_Hand-Sign_Identifier))
+[Semi-Empirical Optimization of Atomic Configuration Energies]<!-- (/pdf/sample_presentation.pdf) -->
+<img width="80%" height="80%" src="images/Ar-sequence.png?raw=true"/>
+
+---
+
+[Prediction of Pathrise<sup>1</sup> Fellowship Outcomes (*Various Models / Python*)]<!-- (/pdf/sample_presentation.pdf) -->
 
 ---
 
@@ -34,12 +38,8 @@
 
 ---
 
-[Semi-Empirical Optimization of Atomic Configuration Energies]<!-- (/pdf/sample_presentation.pdf) -->
-<img width="80%" height="80%" src="images/Ar-sequence.png?raw=true"/>
-
----
-
-[Prediction of Pathrise<sup>1</sup> Fellowship Outcomes (*Various Models / Python*)]<!-- (/pdf/sample_presentation.pdf) -->
+[Multi-Class Hand-Sign Recognition Using TensorFlow (*TensorFlow / Python*)](https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/Deep-Learning/TensorFlow_Hand-Sign_Identifier/Hand-Signs_0-5_2.pdf)
+&emsp;(see [repository](https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/Deep-Learning/TensorFlow_Hand-Sign_Identifier))
 
 ---
 

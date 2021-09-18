@@ -7,7 +7,7 @@
 
 ---
 
-## Projects and Notebooks
+## Selected Projects and Notebooks
 
 ### Machine Learning and Data Science     <!-- ### Published Research Projects (with link) -->
 

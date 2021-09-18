@@ -15,7 +15,7 @@
 
 <!-- ### Reasearch Projects -->
 
-[Protein Structure Estimation from Data-Mining](/Prot-Struct-fr-DM_abs.md)     <!-- Cut -->    
+[Protein Structural-Class Prediction from Data-Mining](/Prot-Struct-fr-DM_abs.md)     <!-- Cut -->    
 <img src="images/Bioinf-03_Fig1_color-3.png?raw=true"/>     <!-- Smaller? -->
 
 ---

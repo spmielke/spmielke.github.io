@@ -30,7 +30,7 @@
 <center>
   <img width="75%" height="75%" align="middle" src="images/SMS_wordcloud2.png?raw=true"/>
 </center>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b><font size="-2">Mielke, 2020</font></b>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b><font size="-1">Mielke, 2020</font></b>
 <br>
 
 ---

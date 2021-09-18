@@ -25,10 +25,6 @@
 
 ---
 
-[Prediction of Pathrise<sup>1</sup> Fellowship Outcomes (*various models / Python*)]<!-- (/pdf/sample_presentation.pdf) -->
-
----
-
 [SMS Spam Classification & Natural Language Processing (*SVM / Python, MATLAB*)](https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/SVM/SMS-Spam/SMS_SVM_classifier.pdf)
 &emsp;(see [repository](https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/SVM/SMS-Spam))
 <center>
@@ -38,8 +34,16 @@
 
 ---
 
+[Large-meteor (bolide) identification from geostationary lightning data (*Neural networks/various models / Python*)]<!-- (/pdf/sample_presentation.pdf) -->
+
+---
+
 [Multi-Class Hand-Sign Recognition in TensorFlow (*TensorFlow / Python*)]<!--(https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/Deep-Learning/TensorFlow_Hand-Sign_Identifier/Hand-Signs_0-5_2.pdf)-->
 <!--&emsp;(see [repository](https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/Deep-Learning/TensorFlow_Hand-Sign_Identifier))-->
+
+---
+
+[Prediction of Pathrise<sup>1</sup> Fellowship Outcomes (*Various models / Python*)]<!-- (/pdf/sample_presentation.pdf) -->
 
 ---
 

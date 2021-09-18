@@ -30,7 +30,7 @@
 <center>
   <img width="75%" height="75%" align="middle" src="images/SMS_wordcloud2.png?raw=true"/>
 </center>
-<div class="horizontalgap" style="width:100px"></div>**Mielke, 2020**
+<span style="display:inline-block; width: 5;"></span><b>Mielke, 2020</b>
 <br>
 
 ---

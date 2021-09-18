@@ -3,6 +3,10 @@
 SP Mielke. Efficiency spectra of in vivo photosynthesis: Measurement and analysis. In preparation.
 M Dong, SP Mielke, M Amin, S Vassiliev, and MR Gunner. Comparison of chlorophyll a and d electrochemistry and affinity in A. marina and T. elongatus PSII reaction centers. In preparation.
 -->
+### Machine Learning and Data Science
+
+SP Mielke. Extracting meaningful models directly from data: a review of machine-learning approaches to data-driven equation discovery. In preparation.
+
 ### Protein Bioinformatics and Structure Prediction
 
 (*See* [Repository](https://github.com/spmielke/Protein-data-mining-tools/tree/master/ACS-Structure-Correlation) *for selected project files.*)
@@ -17,7 +21,7 @@ SP Mielke and VV Krishnan (2004) An evaluation of chemical shift index-based sec
 
 SP Mielke and VV Krishnan (2003) Chemical shift-based identification of protein structural classes. Biophysical Journal 84, 460A. (Abstract)
 
-### Structure and Dynamics of *in vivo* DNA
+### Modeling and Analysis of DNA Structure and Dynamics
 
 (*See* [Repository](https://github.com/spmielke/Stochastic-dynamics-of-in-vivo-DNA/tree/master/Brownian-Dynamics-C-Models) *for selected project files.*)
 

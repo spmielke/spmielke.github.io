@@ -34,16 +34,16 @@
 
 ---
 
-[Large-meteor (bolide) identification from geostationary lightning data (*Neural networks/various models / Python*)]<!-- (/pdf/sample_presentation.pdf) -->
+[Large-Meteor (Bolide) Identification from Geostationary Lightning Data (*neural networks/various models / Python*)]<!-- (/pdf/sample_presentation.pdf) -->
 
 ---
 
-[Deep-Learning Data Classification & Multi-Class Hand-Sign Recognition in TensorFlow (*TensorFlow / Python*)]<!--(https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/Deep-Learning/TensorFlow_Hand-Sign_Identifier/Hand-Signs_0-5_2.pdf)-->
+[Deep-Learning Data Classification & Multi-Class Hand-Sign Recognition in TensorFlow (*various models / TensorFlow / Python*)]<!--(https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/Deep-Learning/TensorFlow_Hand-Sign_Identifier/Hand-Signs_0-5_2.pdf)-->
 <!--&emsp;(see [repository](https://github.com/spmielke/Machine-learning-notebooks/blob/master/Classification/Deep-Learning/TensorFlow_Hand-Sign_Identifier))-->
 
 ---
 
-[Prediction of Pathrise Fellowship<sup>1</sup> Outcomes (*Various models / Python*)]<!-- (/pdf/sample_presentation.pdf) -->
+[Prediction of Pathrise Fellowship<sup>1</sup> Outcomes (*various models / Python*)]<!-- (/pdf/sample_presentation.pdf) -->
 
 ---
 

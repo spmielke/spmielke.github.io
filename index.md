@@ -35,7 +35,7 @@
 
 ---
 
-[Large-Meteor (Bolide) Identification from Geostationary Lightning Data (*neural networks/various models / Python*)]<!-- (/pdf/sample_presentation.pdf) -->
+[Atmospheric Meteor (Bolide) Identification from Geostationary Lightning Data (*neural networks/various models / Python*)]<!-- (/pdf/sample_presentation.pdf) -->
 
 ---
 

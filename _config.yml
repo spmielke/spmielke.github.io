@@ -31,7 +31,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <!-- <a href="https://www.linkedin.com/in/steven-mielke/">View My LinkedIn Profile</a> --> 
   
-  <a href="https://github.com/spmielke">View My GitHub Profile</a>
+  <b><a href="https://github.com/spmielke">View My GitHub Profile</a></b>
   
   spmielke@gmail.com
   <a href="https://www.linkedin.com/in/steven-mielke/">linkedin.com/in/steven-mielke/</a>

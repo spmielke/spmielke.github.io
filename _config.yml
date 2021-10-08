@@ -34,7 +34,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://github.com/spmielke">View My GitHub Profile</a>
   
   spmielke@gmail.com
-  linkedin.com/in/steven-mielke/
+  <a href="https://www.linkedin.com/in/steven-mielke/">linkedin.com/in/steven-mielke/</a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
